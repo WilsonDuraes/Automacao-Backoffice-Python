@@ -59,7 +59,7 @@ def clean_months():
 
 
 
-directory_master = "G:/Drives compartilhados/3.2. Fechamento Fiscal"
+directory_master = "" # Caminho da pasta master
 
 
 clients = os.listdir(directory_master)
